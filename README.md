@@ -1,8 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=FD049D&height=300&section=header&text=CuteCat%20GGIOU&fontSize=80&desc=ฅ^•ﻌ•^ฅ%20ggiou%20Github%20Profile&descSize=20&descAlign=80&fontColor=FDFDFD&animation=fadeIn)
+
+<!-- sns, 이메일, 설명, 기술스 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggiou&show_icons=true&theme=radical)
 
 <!--
 **ggiou/ggiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
