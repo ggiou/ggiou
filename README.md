@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fggiou%2Fhit-counter&count_bg=%23FF359D&title_bg=%23292929&icon=&icon_color=%23FAF6F6&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- sns, 이메일, 설명, 기술스 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggiou&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggiou&show_icons=true&theme=dracula)
 
 <!--
 **ggiou/ggiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
