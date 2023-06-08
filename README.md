@@ -5,7 +5,7 @@
 <!-- sns, 이메일, 설명, 기술스 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggiou&show_icons=true&theme=dracula)
 
-<!--
+<!-- 
 **ggiou/ggiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
